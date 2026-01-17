@@ -6,7 +6,6 @@ The objective of this project is to build a machine learning model that can pred
 ---
 
 ## About Dataset
-- **Source**:  
 - **Total Samples**: 5,572  
 - **Total Features**: 1 (Mail Message/Text)  
 - **Target Classes**:
